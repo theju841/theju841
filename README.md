@@ -84,4 +84,4 @@ K R Pet Krishna Government Engineering College
 
 ---
 
-⭐ *Open to software development opportunities and collaborations.*
+ *Open to software development opportunities and collaborations.*
