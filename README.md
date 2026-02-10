@@ -6,7 +6,7 @@ I am a passionate Java Full Stack Developer interested in building scalable and 
 
 ---
 
-### 🚀 Skills
+###  Skills
 
 -  Core Java
 -  Spring Boot
@@ -22,7 +22,7 @@ I am a passionate Java Full Stack Developer interested in building scalable and 
 
 ---
 
-### 💼 Projects
+###  Projects
 - Dynamic Load Balancer 
 - Full Stack Web Applications
 
