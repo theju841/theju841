@@ -5,7 +5,6 @@
 I am a passionate Java Full Stack Developer interested in building scalable and user-friendly web applications.
 
 ---
-
 ###  Skills
 
 -  Core Java
@@ -16,18 +15,12 @@ I am a passionate Java Full Stack Developer interested in building scalable and 
 -  JavaScript
 -  REST APIs
 -  Git & GitHub
-
-
-
-
 ---
 
 ###  Projects
 - Dynamic Load Balancer 
 - Full Stack Web Applications
-
 ---
-
 ### 📫 How to reach me
 - Email: thejaswinitheju841@gmail.com
 - LinkedIn: https:www.linkedin.com/in/thejaswini-s-4952b2335
