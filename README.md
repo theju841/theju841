@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Thejaswini S
 
-<!--
-**theju841/theju841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Java Full Stack Developer
 
-Here are some ideas to get you started:
+I am a passionate Java Full Stack Developer interested in building scalable and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills
+
+- ☕ Core Java
+- 🌱 Spring Boot
+- 🗄️ MySQL
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🔗 REST APIs
+- 🛠️ Git & GitHub
+
+---
+
+### 🌱 Currently Learning
+- Advanced Spring Boot
+- Microservices Architecture
+
+---
+
+### 💼 Projects
+- Dynamic Load Balancer 
+- Full Stack Web Applications
+
+---
+
+### 📫 How to reach me
+- Email: thejaswinitheju841@gmail.com
+- LinkedIn: https:www.linkedin.com/in/thejaswini-s-4952b2335
+
+---
+
