@@ -8,20 +8,17 @@ I am a passionate Java Full Stack Developer interested in building scalable and 
 
 ### 🚀 Skills
 
-- ☕ Core Java
-- 🌱 Spring Boot
-- 🗄️ MySQL
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ JavaScript
-- 🔗 REST APIs
-- 🛠️ Git & GitHub
+-  Core Java
+-  Spring Boot
+-  MySQL
+-  HTML
+-  CSS
+-  JavaScript
+-  REST APIs
+-  Git & GitHub
 
----
 
-### 🌱 Currently Learning
-- Advanced Spring Boot
-- Microservices Architecture
+
 
 ---
 
