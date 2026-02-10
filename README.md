@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Java Full Stack Developer | BE CSE 2026</h3>
 
 <p align="center">
-  <a href="https:www.linkedin.com/in/thejaswini-s-4952b2335">
+  <a href="https://www.linkedin.com/in/thejaswini-s-4952b2335">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thejaswinitheju841@gmail.com">
