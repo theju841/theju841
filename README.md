@@ -46,7 +46,7 @@ Actively seeking **entry-level Software Engineer / Java Developer roles**.
 
 ---
 
-## 🏗️ Projects
+##  Projects
 
 ### 🔹 Real-Time Object Tracking & Management System
 **Tech Stack:** Python, Flask, SQLite, HTML, CSS  
@@ -77,10 +77,10 @@ K R Pet Krishna Government Engineering College
 
 ---
 
-## 📫 Contact Information
-- 📧 Email: **rahulravikumar976@gmail.com**
-- 🔗 LinkedIn: **linkedin.com/in/rahul-h-r-1a442427b**
-- 💻 GitHub: **github.com/rahulhr976**
+##  Contact Information
+-  Email: **thejaswinitheju841@gmail.com**
+-  LinkedIn: **linkedin.com/in/thejaswini-s-4952b2335**
+-  GitHub: **github.com/theju841**
 
 ---
 
