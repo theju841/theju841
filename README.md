@@ -90,8 +90,6 @@ K R Pet Krishna Government Engineering College
 
 
 
-
-
 # ✨ THEJASWINI S
 
 <div align="center">
@@ -102,9 +100,7 @@ K R Pet Krishna Government Engineering College
 
 *Building meaningful applications with creativity, logic and code.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-theju841-181717?style=for-the-badge&logo=github)](https://github.com/theju841)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejaswini-s-4952b2335)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejaswinitheju841@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejaswini-s-75337444b/)
 
 </div>
 
