@@ -65,7 +65,7 @@ Actively seeking **entry-level Software Engineer / Java Developer roles**.
 ## 🎓 Education
 **Bachelor of Engineering – Computer Science & Engineering**  
 K R Pet Krishna Government Engineering College  
-**CGPA:** 8.5 | **Year:** 2022 – 2026
+**CGPA:** 8.8 | **Year:** 2022 – 2026
 
 ---
 
