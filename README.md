@@ -100,8 +100,6 @@ K R Pet Krishna Government Engineering College
 
 *Building meaningful applications with creativity, logic and code.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejaswini-s-75337444b/)
-
 </div>
 
 ---
@@ -129,9 +127,9 @@ K R Pet Krishna Government Engineering College
 
 | Logo | Technology |
 | ---- | ---------- |
-| ☕    | Java       |
-| 🐍   | Python     |
-| 🟨   | JavaScript |
+| ☕ | Java |
+| 🐍 | Python |
+| 🟨 | JavaScript |
 
 ### 🎨 Frontend Development
 
@@ -143,10 +141,10 @@ K R Pet Krishna Government Engineering College
 
 | Logo | Technology |
 | ---- | ---------- |
-| 🌐   | HTML5      |
-| 🎨   | CSS3       |
-| ⚛️   | React.js   |
-| 🅱️  | Bootstrap  |
+| 🌐 | HTML5 |
+| 🎨 | CSS3 |
+| ⚛️ | React.js |
+| 🅱️ | Bootstrap |
 
 ### ⚙️ Backend Development
 
@@ -156,10 +154,10 @@ K R Pet Krishna Government Engineering College
 
 </div>
 
-| Logo | Technology  |
+| Logo | Technology |
 | ---- | ----------- |
-| 🍃   | Spring Boot |
-| 🐍   | Flask       |
+| 🍃 | Spring Boot |
+| 🐍 | Flask |
 
 ### 🗄️ Databases
 
@@ -171,8 +169,8 @@ K R Pet Krishna Government Engineering College
 
 | Logo | Technology |
 | ---- | ---------- |
-| 🐬   | MySQL      |
-| 🗃️  | SQLite     |
+| 🐬 | MySQL |
+| 🗃️ | SQLite |
 
 ### 🔧 Tools & Platforms
 
@@ -182,12 +180,12 @@ K R Pet Krishna Government Engineering College
 
 </div>
 
-| Logo | Technology         |
+| Logo | Technology |
 | ---- | ------------------ |
-| 🔀   | Git                |
-| 🐙   | GitHub             |
-| 💻   | Visual Studio Code |
-| 🧠   | IntelliJ IDEA      |
+| 🔀 | Git |
+| 🐙 | GitHub |
+| 💻 | Visual Studio Code |
+| 🧠 | IntelliJ IDEA |
 
 ---
 
@@ -249,11 +247,11 @@ K R Pet Krishna Government Engineering College
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/theju841)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theju841)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejaswini-s-75337444b/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejaswinitheju841@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejaswinitheju841@gmail.com)
 
 </div>
 
