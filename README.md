@@ -79,7 +79,7 @@ K R Pet Krishna Government Engineering College
 
 ##  Contact Information
 -  Email: **thejaswinitheju841@gmail.com**
--  LinkedIn: **https://www.linkedin.com/in/thejaswini-s-4952b2335/**
+-  LinkedIn: **https://www.linkedin.com/in/thejaswini-s-75337444b/**
 -  GitHub: **https://github.com/theju841**
 
 ---
