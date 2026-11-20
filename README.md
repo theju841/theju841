@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Java Full Stack Developer | BE CSE 2026</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/thejaswini-s-4952b2335">
+  <a href="https://www.linkedin.com/in/thejaswini-s-75337444b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:thejaswinitheju841@gmail.com">
@@ -255,7 +255,7 @@ K R Pet Krishna Government Engineering College
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/theju841)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejaswini-s-4952b2335)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejaswini-s-75337444b/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejaswinitheju841@gmail.com)
 
