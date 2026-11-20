@@ -87,6 +87,11 @@ K R Pet Krishna Government Engineering College
  *Open to software development opportunities and collaborations.* -->
 
 
+
+
+
+
+
 # ✨ THEJASWINI S
 
 <div align="center">
@@ -98,6 +103,7 @@ K R Pet Krishna Government Engineering College
 *Building meaningful applications with creativity, logic and code.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-theju841-181717?style=for-the-badge&logo=github)](https://github.com/theju841)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejaswini-s-4952b2335)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejaswinitheju841@gmail.com)
 
 </div>
@@ -126,10 +132,10 @@ K R Pet Krishna Government Engineering College
 </div>
 
 | Logo | Technology |
-|---|---|
-| ☕ | Java |
-| 🐍 | Python |
-| 🟨 | JavaScript |
+| ---- | ---------- |
+| ☕    | Java       |
+| 🐍   | Python     |
+| 🟨   | JavaScript |
 
 ### 🎨 Frontend Development
 
@@ -140,11 +146,11 @@ K R Pet Krishna Government Engineering College
 </div>
 
 | Logo | Technology |
-|---|---|
-| 🌐 | HTML5 |
-| 🎨 | CSS3 |
-| ⚛️ | React.js |
-| 🅱️ | Bootstrap |
+| ---- | ---------- |
+| 🌐   | HTML5      |
+| 🎨   | CSS3       |
+| ⚛️   | React.js   |
+| 🅱️  | Bootstrap  |
 
 ### ⚙️ Backend Development
 
@@ -154,10 +160,10 @@ K R Pet Krishna Government Engineering College
 
 </div>
 
-| Logo | Technology |
-|---|---|
-| 🍃 | Spring Boot |
-| 🐍 | Flask |
+| Logo | Technology  |
+| ---- | ----------- |
+| 🍃   | Spring Boot |
+| 🐍   | Flask       |
 
 ### 🗄️ Databases
 
@@ -168,9 +174,9 @@ K R Pet Krishna Government Engineering College
 </div>
 
 | Logo | Technology |
-|---|---|
-| 🐬 | MySQL |
-| 🗃️ | SQLite |
+| ---- | ---------- |
+| 🐬   | MySQL      |
+| 🗃️  | SQLite     |
 
 ### 🔧 Tools & Platforms
 
@@ -180,12 +186,12 @@ K R Pet Krishna Government Engineering College
 
 </div>
 
-| Logo | Technology |
-|---|---|
-| 🔀 | Git |
-| 🐙 | GitHub |
-| 💻 | Visual Studio Code |
-| 🧠 | IntelliJ IDEA |
+| Logo | Technology         |
+| ---- | ------------------ |
+| 🔀   | Git                |
+| 🐙   | GitHub             |
+| 💻   | Visual Studio Code |
+| 🧠   | IntelliJ IDEA      |
 
 ---
 
@@ -248,6 +254,8 @@ K R Pet Krishna Government Engineering College
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/theju841)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejaswini-s-4952b2335)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thejaswinitheju841@gmail.com)
 
