@@ -1,4 +1,4 @@
-<h1 align="center">THEJASWINI S</h1>
+<!-- <h1 align="center">THEJASWINI S</h1>
 <h3 align="center">Software Engineer | Java Full Stack Developer | BE CSE 2026</h3>
 
 <p align="center">
@@ -84,4 +84,148 @@ K R Pet Krishna Government Engineering College
 
 ---
 
- *Open to software development opportunities and collaborations.*
+ *Open to software development opportunities and collaborations.* -->
+
+
+
+
+
+
+
+
+ # ✨ THEJASWINI S
+
+<h3 align="center">Software Engineer | Java Full Stack Developer</h3>
+
+<p align="center">
+  <em>Building ideas into real-world applications through code and creativity.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/theju841">
+    <img src="https://img.shields.io/badge/GitHub-theju841-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:thejaswinitheju841@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thejaswini-s-75337444b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 👩‍💻 ABOUT ME
+
+Hello! I'm **Thejaswini S**, a Computer Science & Engineering graduate (2026), passionate about software development and building practical technology solutions.
+
+- 💻 Interested in Java Full Stack Development.
+- 🚀 Enjoy developing real-world applications.
+- 🧠 Continuously learning new technologies and improving my skills.
+- 🎯 Aspiring Software Engineer.
+- 🤝 Open to opportunities, collaboration and learning.
+
+---
+
+## ⚡ TECH STACK
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,flask,mysql,sqlite" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 01 | Dynamic Load Balancing Simulation
+
+**Tech Stack:** Python · Flask · JavaScript · Chart.js
+
+- Implemented Round-Robin and Least-Connection load balancing algorithms.
+- Visualized server load distribution using interactive charts.
+- Simulated dynamic request distribution across multiple servers.
+- Explored resource utilization and fault tolerance.
+
+### 02 | Real-Time Object Tracking & Management System
+
+**Tech Stack:** Python · Flask · SQLite · HTML · CSS
+
+- Developed secure authentication and session management.
+- Implemented CRUD operations for device records.
+- Integrated QR code generation for tracking.
+- Built a web-based management interface.
+
+### 03 | BookMyTicket – Movie Ticket Booking System
+
+**Tech Stack:** Java · Spring Boot · SQL
+
+- Developed an online movie ticket booking application.
+- Worked on backend application development using Spring Boot.
+- Practiced database integration and REST-based development.
+
+---
+
+## 🎓 EDUCATION
+
+**Bachelor of Engineering – Computer Science & Engineering**
+
+K R Pet Krishna Government Engineering College
+
+📅 2022 – 2026  
+🏆 CGPA: 8.8
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theju841&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=theju841&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theju841&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 CURRENT FOCUS
+
+- Strengthening Java and Spring Boot fundamentals.
+- Improving problem-solving and coding skills.
+- Building full-stack applications.
+- Preparing for Software Engineer opportunities.
+
+---
+
+## 📬 LET'S CONNECT
+
+<p align="center">
+  <a href="mailto:thejaswinitheju841@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/thejaswini-s-75337444b/">💼 LinkedIn</a> •
+  <a href="https://github.com/theju841">🐙 GitHub</a>
+</p>
+
+<p align="center">
+  <b>✨ Code. Create. Learn. Grow. ✨</b>
+</p>
+
+<p align="center">
+  <i>Thank you for visiting my profile!</i>
+</p>
