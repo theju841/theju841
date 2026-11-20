@@ -89,166 +89,64 @@ K R Pet Krishna Government Engineering College
 
 
 
-
-
-# 🌌 THEJASWINI S
-
-<h3 align="center">SOFTWARE ENGINEER | JAVA FULL STACK DEVELOPER</h3>
-
-<p align="center">
-  <b>Frontend • Backend • Database • Problem Solving</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+into+Applications;Learning+%7C+Creating+%7C+Innovating;Passionate+Software+Developer" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/theju841">
-    <img src="https://img.shields.io/badge/GitHub-theju841-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:thejaswinitheju841@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thejaswini-s-75337444b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
-
-## 💜 ABOUT ME
-
-Hello! I'm **Thejaswini S**, a Computer Science and Engineering graduate (2026), passionate about developing creative and practical software solutions.
-
-- 👩‍💻 Aspiring Software Engineer.
-- ☕ Interested in Java Full Stack Development.
-- ⚛️ Exploring modern frontend technologies.
-- 🧠 Passionate about problem-solving and application development.
-- 🚀 Love turning ideas into real-world projects.
-- 🌱 Always learning and growing with technology.
-
----
-
-## ⚡ MY TECHNOLOGY UNIVERSE
+## ⚡ MY TECHNOLOGY STACK
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" height="45" />
 </p>
+
+| Logo | Technology |
+|---|---|
+| ☕ | **Java** |
+| 🐍 | **Python** |
+| 🟨 | **JavaScript** |
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" height="45" />
 </p>
+
+| Logo | Technology |
+|---|---|
+| 🌐 | **HTML5** |
+| 🎨 | **CSS3** |
+| ⚛️ | **React.js** |
+| 🅱️ | **Bootstrap** |
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,flask" />
+  <img src="https://skillicons.dev/icons?i=spring,flask" height="45" />
 </p>
+
+| Logo | Technology |
+|---|---|
+| 🍃 | **Spring Boot** |
+| 🐍 | **Flask** |
 
 ### 🗄️ Database Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="45" />
 </p>
 
-### 🛠️ Development Tools
+| Logo | Technology |
+|---|---|
+| 🐬 | **MySQL** |
+| 🗃️ | **SQLite** |
+
+### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" height="45" />
 </p>
 
----
-
-## 🚀 FEATURED PROJECTS
-
-### 🔹 01. Dynamic Load Balancing Simulation
-
-**Technologies:** Python | Flask | JavaScript | Chart.js
-
-- Implemented Round-Robin and Least-Connection algorithms.
-- Visualized server load distribution through interactive charts.
-- Simulated dynamic request distribution across multiple servers.
-- Explored resource utilization and fault tolerance.
-
-### 🔹 02. Real-Time Object Tracking & Management System
-
-**Technologies:** Python | Flask | SQLite | HTML | CSS
-
-- Developed secure authentication and session management.
-- Implemented CRUD operations for device records.
-- Integrated QR code generation for tracking.
-- Created a web-based management interface.
-
-### 🔹 03. BookMyTicket – Movie Ticket Booking System
-
-**Technologies:** Java | Spring Boot | SQL
-
-- Developed an online movie ticket booking application.
-- Worked on backend development using Spring Boot.
-- Practiced database integration and application development.
-
----
-
-## 🎓 EDUCATION
-
-**Bachelor of Engineering – Computer Science & Engineering**
-
-🏛️ K R Pet Krishna Government Engineering College
-
-📅 2022 – 2026
-
-🏆 CGPA: 8.8
-
----
-
-## 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=theju841&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=theju841&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theju841&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌱 MY CURRENT FOCUS
-
-- Strengthening Java and Spring Boot skills.
-- Learning and building applications with React.js.
-- Improving Python and JavaScript programming.
-- Practicing problem-solving and coding challenges.
-- Building full-stack applications.
-
----
-
-## 🤝 CONNECT WITH ME
-
-<p align="center">
-  <a href="mailto:thejaswinitheju841@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thejaswini-s-75337444b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/theju841">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>✨ BUILD • INNOVATE • DEVELOP • GROW ✨</b>
-</p>
-
-<p align="center">
-  <i>Thanks for visiting my profile. Let's build something amazing together!</i>
-</p>
+| Logo | Technology |
+|---|---|
+| 🔀 | **Git** |
+| 🐙 | **GitHub** |
+| 💻 | **Visual Studio Code** |
+| 🧠 | **IntelliJ IDEA** |
