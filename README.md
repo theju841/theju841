@@ -91,14 +91,16 @@ K R Pet Krishna Government Engineering College
 
 
 
+# 🌌 THEJASWINI S
 
-
- # ✨ THEJASWINI S
-
-<h3 align="center">Software Engineer | Java Full Stack Developer</h3>
+<h3 align="center">SOFTWARE ENGINEER | JAVA FULL STACK DEVELOPER</h3>
 
 <p align="center">
-  <em>Building ideas into real-world applications through code and creativity.</em>
+  <b>Frontend • Backend • Database • Problem Solving</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Building+Ideas+into+Applications;Learning+%7C+Creating+%7C+Innovating;Passionate+Software+Developer" />
 </p>
 
 <p align="center">
@@ -115,36 +117,47 @@ K R Pet Krishna Government Engineering College
 
 ---
 
-## 👩‍💻 ABOUT ME
+## 💜 ABOUT ME
 
-Hello! I'm **Thejaswini S**, a Computer Science & Engineering graduate (2026), passionate about software development and building practical technology solutions.
+Hello! I'm **Thejaswini S**, a Computer Science and Engineering graduate (2026), passionate about developing creative and practical software solutions.
 
-- 💻 Interested in Java Full Stack Development.
-- 🚀 Enjoy developing real-world applications.
-- 🧠 Continuously learning new technologies and improving my skills.
-- 🎯 Aspiring Software Engineer.
-- 🤝 Open to opportunities, collaboration and learning.
+- 👩‍💻 Aspiring Software Engineer.
+- ☕ Interested in Java Full Stack Development.
+- ⚛️ Exploring modern frontend technologies.
+- 🧠 Passionate about problem-solving and application development.
+- 🚀 Love turning ideas into real-world projects.
+- 🌱 Always learning and growing with technology.
 
 ---
 
-## ⚡ TECH STACK
+## ⚡ MY TECHNOLOGY UNIVERSE
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,flask,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=spring,flask" />
 </p>
 
-### Tools & Technologies
+### 🗄️ Database Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### 🛠️ Development Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
@@ -153,31 +166,31 @@ Hello! I'm **Thejaswini S**, a Computer Science & Engineering graduate (2026), p
 
 ## 🚀 FEATURED PROJECTS
 
-### 01 | Dynamic Load Balancing Simulation
+### 🔹 01. Dynamic Load Balancing Simulation
 
-**Tech Stack:** Python · Flask · JavaScript · Chart.js
+**Technologies:** Python | Flask | JavaScript | Chart.js
 
-- Implemented Round-Robin and Least-Connection load balancing algorithms.
-- Visualized server load distribution using interactive charts.
+- Implemented Round-Robin and Least-Connection algorithms.
+- Visualized server load distribution through interactive charts.
 - Simulated dynamic request distribution across multiple servers.
 - Explored resource utilization and fault tolerance.
 
-### 02 | Real-Time Object Tracking & Management System
+### 🔹 02. Real-Time Object Tracking & Management System
 
-**Tech Stack:** Python · Flask · SQLite · HTML · CSS
+**Technologies:** Python | Flask | SQLite | HTML | CSS
 
 - Developed secure authentication and session management.
 - Implemented CRUD operations for device records.
 - Integrated QR code generation for tracking.
-- Built a web-based management interface.
+- Created a web-based management interface.
 
-### 03 | BookMyTicket – Movie Ticket Booking System
+### 🔹 03. BookMyTicket – Movie Ticket Booking System
 
-**Tech Stack:** Java · Spring Boot · SQL
+**Technologies:** Java | Spring Boot | SQL
 
 - Developed an online movie ticket booking application.
-- Worked on backend application development using Spring Boot.
-- Practiced database integration and REST-based development.
+- Worked on backend development using Spring Boot.
+- Practiced database integration and application development.
 
 ---
 
@@ -185,9 +198,10 @@ Hello! I'm **Thejaswini S**, a Computer Science & Engineering graduate (2026), p
 
 **Bachelor of Engineering – Computer Science & Engineering**
 
-K R Pet Krishna Government Engineering College
+🏛️ K R Pet Krishna Government Engineering College
 
-📅 2022 – 2026  
+📅 2022 – 2026
+
 🏆 CGPA: 8.8
 
 ---
@@ -205,27 +219,36 @@ K R Pet Krishna Government Engineering College
 
 ---
 
-## 🌱 CURRENT FOCUS
+## 🌱 MY CURRENT FOCUS
 
-- Strengthening Java and Spring Boot fundamentals.
-- Improving problem-solving and coding skills.
+- Strengthening Java and Spring Boot skills.
+- Learning and building applications with React.js.
+- Improving Python and JavaScript programming.
+- Practicing problem-solving and coding challenges.
 - Building full-stack applications.
-- Preparing for Software Engineer opportunities.
 
 ---
 
-## 📬 LET'S CONNECT
+## 🤝 CONNECT WITH ME
 
 <p align="center">
-  <a href="mailto:thejaswinitheju841@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/thejaswini-s-75337444b/">💼 LinkedIn</a> •
-  <a href="https://github.com/theju841">🐙 GitHub</a>
+  <a href="mailto:thejaswinitheju841@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thejaswini-s-75337444b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/theju841">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ BUILD • INNOVATE • DEVELOP • GROW ✨</b>
 </p>
 
 <p align="center">
-  <b>✨ Code. Create. Learn. Grow. ✨</b>
-</p>
-
-<p align="center">
-  <i>Thank you for visiting my profile!</i>
+  <i>Thanks for visiting my profile. Let's build something amazing together!</i>
 </p>
